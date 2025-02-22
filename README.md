@@ -1,0 +1,2 @@
+# ollama_llamaindex
+ollamaとllamaindexでRAGとかAgentsを試す
